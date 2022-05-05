@@ -1,0 +1,69 @@
+/*tag selector*/
+
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    /* For more usable fonts refer to : https://fonts.google.com/*/
+    font-size: 20px;
+}
+h1{
+    font-size: 5.652rem;
+    color: #66BFBF;
+    margin: 50px auto 0 auto; 
+    font-family: 'sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+/*class selector and for id selector we use "#"*/
+.top-container{
+    background-color: #EFFFFD ;
+   position: relative;
+   padding-top: 100px;
+}
+
+.middle-container{
+
+}
+.bottom-container{
+  
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+.web{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.circular{
+    width: 25% 25%;
+}
+.Circular{
+    width: 25% 25%;
+}
