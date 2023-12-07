@@ -1,10 +1,8 @@
-/*tag selector*/
 
 body{
     margin: 0%;
     text-align: center;
     font-family: 'Merriweather', serif;
-    /* For more usable fonts refer to : https://fonts.google.com/*/
     font-size: 20px;
 }
 h1{
@@ -27,7 +25,6 @@ h3{
 a{
     color: #11999E;
 }
-/*class selector and for id selector we use "#"*/
 .top-container{
     background-color: #EFFFFD ;
    position: relative;
